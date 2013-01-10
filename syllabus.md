@@ -64,7 +64,7 @@ reception.</td>
 	</tr>
 	<tr>
 		<td><strong>Office hours</strong></td>
-		<td>TBA</td>
+		<td>Wednesdays and Thursdays, 1:30–2:30p, 325D IST Building</td>
 	</tr>
 </table>
 
