@@ -33,6 +33,7 @@
 				<li>Tuesday, 1:30–3:30</li>
 				<li>By appointment</li>
 			</ul>
+			<p><strong>You can reserve a time with me</strong> by visiting <a href="http://friedenberg.youcanbookme.com">http://friedenberg.youcanbookme.com/</a></p>
 		</td>
 	</tr>	
 	<tr>
@@ -65,7 +66,6 @@ reception.</td>
 	<tr>
 		<td><strong>Office hours</strong></td>
 		<td>Wednesdays and Thursdays, 1:30–2:30p, 325D IST Building
-		<p><strong>You can reserve a time with me</strong> by visiting <a href="http://friedenberg.youcanbookme.com">http://friedenberg.youcanbookme.com/</a></p>
 		</td>
 	</tr>
 </table>
