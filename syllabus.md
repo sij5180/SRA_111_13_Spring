@@ -163,11 +163,11 @@ Students without prior experience should be able to:
 	<tr>
 		<td>3</td>
 		<td>January 20</td>
-		<td><em>GroupTime (Wed in class)</em></td>
+		<td><em></em></td>
 		<td>&nbsp;</td>
 		<td>
 			<p>GroupI_PostTeams</p>
-			<p><strong>Quiz_1</strong></p>
+			<p><strong>Quiz_1 (Friday)</strong></p>
 		</td>
 	</tr>
 	<tr>
@@ -459,7 +459,7 @@ To minimize technical difficulty in submitting homework, we strongly suggest usi
 
 ### 5c. Quizzes
 
-Schedule each quiz in 104 Pollock Building at [http://www.testing.psu.edu/Students/](http://www.testing.psu.edu/Students/). Each multiple choice/ short answer quiz builds on previous course material, but is technically not comprehensive. A practice Angel quiz should be available five-days before each quiz. See [my study tips](https://github.com/mfriedenberg/Teaching-Common/blob/master/study_tips.md). Excused students have one week to make-up quizzes.
+Each multiple choice/short answer quiz builds on previous course material, but is technically not comprehensive. A practice Angel quiz should be available five-days before each quiz. See [my study tips](https://github.com/mfriedenberg/Teaching-Common/blob/master/study_tips.md). Excused students have one week to make-up quizzes.
 
 #### Make-up quizzes
 
@@ -467,11 +467,9 @@ Excused students missing one (1) quiz may be allowed to take a comprehensive Mak
 
 #### Quiz materials
 
-Students must have a PSU Student ID to take quizzes. Cell phones, pencils and paper (other than specified below) are not allowed during the quiz. An AUTOMATIC Academic Integrity Violation will result if these items are used OR even visible (i.e. lying on desk or floor) during the quiz.
+Quizzes will be administered in our classroom, during the normal class time, and be taken on ANGEL.
 
-Our Students will be allowed to bring to the quiz a single-sheet (8.5" x 11") front-and-back of personally written notes (i.e., no photocopies, printing, etc.).
-
-Please read [the eTesting center FAQs online](http://testing.psu.edu/Students/), and notices posted in the center. To be admitted, students need to register and bring a student ID. The center is proctored and uses extensive video surveillance.
+You will be allowed to bring to the quiz a single-sheet (8.5" x 11") front-and-back of personally written notes (i.e., no photocopies, printing, etc.).
 
 ### 5d. Grade distribution and ANGEL Gradebook
 
