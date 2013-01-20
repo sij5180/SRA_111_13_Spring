@@ -459,7 +459,7 @@ To minimize technical difficulty in submitting homework, we strongly suggest usi
 
 ### 5c. Quizzes
 
-Each multiple choice/short answer quiz builds on previous course material, but is technically not comprehensive. A practice Angel quiz should be available five-days before each quiz. See [my study tips](https://github.com/mfriedenberg/Teaching-Common/blob/master/study_tips.md). Excused students have one week to make-up quizzes.
+Each multiple choice/short answer quiz builds on previous course material, but is technically not comprehensive. A practice ANGEL quiz should be available five days before each quiz. See [my study tips](https://github.com/mfriedenberg/Teaching-Common/blob/master/study_tips.md). Excused students have one week to make-up quizzes.
 
 #### Make-up quizzes
 
