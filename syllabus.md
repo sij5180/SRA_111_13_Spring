@@ -65,7 +65,7 @@ reception.</td>
 	</tr>
 	<tr>
 		<td><strong>Office hours</strong></td>
-		<td>Wednesdays and Thursdays, 1:30–2:30p, 104D IST Building
+		<td>Wednesdays and Thursdays, 1:30–2:30p, 316C IST Building
 		</td>
 	</tr>
 </table>
