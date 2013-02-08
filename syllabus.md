@@ -185,7 +185,7 @@ Students without prior experience should be able to:
 		<td>February 3</td>
 		<td>Risk Analysis</td>
 		<td>&nbsp;</td>
-		<td>PerSEC Lab_1</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -203,7 +203,7 @@ Students without prior experience should be able to:
 			<p>Education Tool: Phishing</p>
 		</td>
 		<td>1–8; 16–19; 39–88; 245–256; 267–269; 277–287</td>
-		<td>&nbsp;</td>
+		<td>PerSEC Lab_1</td>
 	</tr>
 	<tr>
 		<td>8</td>
