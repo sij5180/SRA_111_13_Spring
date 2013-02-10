@@ -190,8 +190,8 @@ Students without prior experience should be able to:
 	<tr>
 		<td>6</td>
 		<td>February 10</td>
-		<td><em>GroupTime (Mon in class)</em></td>
-		<td>&nbsp;</td>
+		<td><em></em></td>
+		<td>1–8; 16–19; 245–253</td>
 		<td><strong>Quiz_2</strong></td>
 	</tr>
 	<tr>
@@ -202,7 +202,7 @@ Students without prior experience should be able to:
 			<p>Technology Tool: Malware/Access</p>
 			<p>Education Tool: Phishing</p>
 		</td>
-		<td>1–8; 16–19; 39–88; 245–256; 267–269; 277–287</td>
+		<td>39–88; 253–285</td>
 		<td>PerSEC Lab_1</td>
 	</tr>
 	<tr>
