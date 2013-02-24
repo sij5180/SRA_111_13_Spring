@@ -202,15 +202,15 @@ Students without prior experience should be able to:
 			<p>Technology Tool: Malware/Access</p>
 			<p>Education Tool: Phishing</p>
 		</td>
-		<td>39–88; 253–285</td>
-		<td>PerSEC Lab_1</td>
+		<td>39–88</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>February 24</td>
 		<td>Technology Tool: Networks-- Firewalls, IDS & VPNs</td>
-		<td>291–327; 328–349</td>
-		<td>GroupIII_ResearchQuestion</td>
+		<td>250–285 (Wedneday); 293–316 (Friday)</td>
+		<td>GroupIII_ResearchQuestion<br />PerSEC Lab_1</td>
 	</tr>
 	<tr>
 		<td colspan="5">Spring break- no class</td>
@@ -218,8 +218,8 @@ Students without prior experience should be able to:
 	<tr>
 		<td>9</td>
 		<td>March 10</td>
-		<td><em>GroupTime (Mon in class)</em></td>
-		<td>&nbsp;</td>
+		<td><</td>
+		<td>316–347</td>
 		<td><strong>Quiz_3</strong>
 	</tr>
 	<tr>
